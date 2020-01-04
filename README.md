@@ -1,9 +1,14 @@
-# VisualDesign
-可视化期末项目计划
+# Interactive_Visual_201908可视化项目报告
+
+|主题|中国博物馆分析|
+|---|---|
+|第一责任人|SHIRKING|
+|联系方式|SHIRKING-LXY（微信）|
+|最终成果展示|[pythonanywhere](http://shirkingliang.pythonanywhere.com/)|
+
+一、计划阶段
 
 **基本范围：公共文化研究**
-
-
 
 |预案|内容|相关资料|
 |---|---|---|
@@ -12,7 +17,9 @@
 |方案三|通过对胡润榜数据可视化了解中国品牌的地区分布情况。|[汇桔网·2019胡润品牌榜](http://www.hurun.net/CN/Article/Details?num=6F31B786AD94)
 
 
+二、实现
 
-联系方式
-微信号：
-SHIRKING-LXY
+[中国博物馆分析](http://shirkingliang.pythonanywhere.com/)
+[如果不行点这个](http://hanxingting.pythonanywhere.com)
+
+三、数据故事

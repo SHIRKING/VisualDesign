@@ -25,6 +25,7 @@
 ## 二、实现
 
 [中国博物馆分析](http://shirkingliang.pythonanywhere.com/)
+
 [如果不行点这个](http://hanxingting.pythonanywhere.com)
 
 ## 三、数据故事
@@ -40,6 +41,7 @@
 从这两页的数据我们可以看出近八年间，山东、河南、浙江、陕西、四川等地的博物馆机构数激增。尤其是山东省从2010年的114个狂涨到2018年的517个。从地图上看，2018年，我国博物馆机构主要集中于黄河中下游、长江下游地区。和中国文明发展的方向基本一致，历史发展比较久远且兴盛的地区能够出现更多博物馆机构。同时我们可以看见马太效应在这其中也有一定的显现，原本博物馆数量较多的地区博物馆增长量要比原本博物馆数量较少的地区要多很多，山东就是其中一个例子。
 
 ![图1](https://github.com/SHIRKING/VisualDesign/blob/master/pictures/BQ1.png)
+
 ![图2](https://github.com/SHIRKING/VisualDesign/blob/master/pictures/BQ2.png)
 
 ### Collection 博物馆收藏品

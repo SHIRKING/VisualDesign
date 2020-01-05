@@ -5,6 +5,7 @@
 |第一责任人|SHIRKING|
 |联系方式|SHIRKING-LXY（微信）|
 |最终成果展示|[pythonanywhere](http://shirkingliang.pythonanywhere.com/)|
+|gitee|[链接](https://gitee.com/NFUNM045/interactive_visualization/blob/master/README.md)|
 
 ## 一、计划阶段
 
